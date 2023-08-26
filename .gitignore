@@ -1,0 +1,6 @@
+**/logs
+*.log
+*.db
+.logs/
+.bin/
+.target/
